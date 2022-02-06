@@ -13,3 +13,14 @@ face-mask-Recognition - Ui iterface- Sytem
 
 
 2.Using the command 'main.py',to run the "main.py" system and our ui interface.
+
+Installation
+
+• Python 3.10
+• pip install tensorflow
+• pip install keras
+• numpy
+• pip install PyQt5 - FOR UI
+• pip install opencv-python
+
+

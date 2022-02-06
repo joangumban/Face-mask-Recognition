@@ -3,6 +3,8 @@
  
  
  2.Using the command 'train.py', run the 'train_model.py' file to train the model from scratch or simply store the pre-trained model saved as 'mask_detector.model.h5' file.
+
+
 3.Using the command '', run the 'detect_mask.py' file to turn on your camera and detect the mask.
 
 face-mask-Recognition - Ui iterface- Sytem

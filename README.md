@@ -17,10 +17,15 @@ face-mask-Recognition - Ui iterface- Sytem
 Installation
 
 • Python 3.10
+
 • pip install tensorflow
+
 • pip install keras
+
 • numpy
+
 • pip install PyQt5 - FOR UI
+
 • pip install opencv-python
 
 
